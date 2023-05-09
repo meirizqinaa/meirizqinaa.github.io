@@ -133,3 +133,13 @@ footer {
         display: none
     }
     
+    article p {
+        display: none
+    }
+    
+    article .konten img {
+        width: 50%;
+        height: 100px;
+        margin: 0 0 5px -5%;
+    }
+    
