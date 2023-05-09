@@ -9,7 +9,7 @@ body{
 }
 
 .kotak{
-    width: 90%;
+    width: 70%;
     height: auto;
     background: white;
     margin:auto;
@@ -142,3 +142,6 @@ footer {
         height: 90px;
     }
     
+    .kotak {
+        width: 95%
+    }
