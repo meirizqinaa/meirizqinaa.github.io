@@ -26,7 +26,7 @@ nav ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #1a75ff;
+    background-color: #b31aff;
     border: 1px solid gainsboro;
 }
 
@@ -130,7 +130,7 @@ footer {
     }
     
     article .konten .judul {
-        display: none
+        font-size:small;
     }
     
     article p {
